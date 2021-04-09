@@ -9,7 +9,6 @@ gem 'pry'
 # Prevents bundler from taking a long-time to resolve
 group :development, :test do
   gem 'activerecord-import'
-  gem 'mime-types'
   gem 'builder'
   gem 'rubocop', require: false
   gem 'rspec'
